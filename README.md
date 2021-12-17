@@ -1,6 +1,6 @@
 # Regex Tutorial: Validating a Hexadecimal Color Code
 
-![Code badge](https://img.shields.io/github/languages/top/warrenp11/ecommerce-backend) 
+![Code badge](https://img.shields.io/github/languages/top/warrenp11/regex-tutorial) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This gist was completed as a homework assignment for Rutgers Coding Boot Camp.
